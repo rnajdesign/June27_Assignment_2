@@ -145,3 +145,5 @@ JWT_SECRET=your_jwt_secret
 ## 📄 License
 
 MIT License. See the [LICENSE](./LICENSE) file for details.
+
+<img src="RideRadar.jpeg" alt="App Screenshot" />
